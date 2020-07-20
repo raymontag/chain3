@@ -6,7 +6,7 @@ exploit takes chain 3[^1] and implementes the kernel exploit.
 
 A full write-up about this exploit can be found at:
 
-XXX add blog post URL
+[https://secfault-security.com/blog/chain3.html](https://secfault-security.com/blog/chain3.html)
 
 ## Usage
 For the development of this exploit an iPhone 5S with iOS 11.2.5 was used. Any
